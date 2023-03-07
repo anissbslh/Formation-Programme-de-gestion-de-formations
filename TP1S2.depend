@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1622238099 source:d:\esi c projects\tp1s2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"bib.h"
+
+1622238303 d:\esi c projects\tp1s2\bib.h
+	<ctype.h>
+	<time.h>
+	"machine_abstraite.h"
+
+1622233219 d:\esi c projects\tp1s2\machine_abstraite.h
+
+1622280366 source:c:\users\aniss\desktop\tp1s2-main\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"bib.h"
+
+1622255528 c:\users\aniss\desktop\tp1s2-main\bib.h
+	<ctype.h>
+	<time.h>
+	"machine_abstraite.h"
+
+1622238653 c:\users\aniss\desktop\tp1s2-main\machine_abstraite.h
+
+1622280368 source:e:\trucs\alsdd\tp1s2-main\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"bib.h"
+
+1622255530 e:\trucs\alsdd\tp1s2-main\bib.h
+	<ctype.h>
+	<time.h>
+	"machine_abstraite.h"
+
+1622238654 e:\trucs\alsdd\tp1s2-main\machine_abstraite.h
+
