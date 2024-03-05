@@ -1,9 +1,9 @@
 /*
     ----------------------------------------------------------------------
-    TP ALSDD Semestre 2 Réalisé par Ameur Nassim G05 et Aniss Bessalah G05
+    TP ALSDD Semestre 2 RÃ©alisÃ© par Aniss Bessalah G05 Ameur Nassim G05
     ----------------------------------------------------------------------
 
-    Sous le thème : Application de gestion des formations
+    Sous le thÃ¨me : Application de gestion des formations
 */
 
 #include <stdio.h>
@@ -58,7 +58,7 @@ int main()
             scanf("%s",nom);
             printf("\t\t>> Entrez le prenom du participant : ");
             scanf("%s",prenom);
-            Affich_F_N(Formations,nom,prenom,nom_formation,&note,&trouv);//Affiche le nom de la formation et la note d'un participant existant donné, sinon ERREUR
+            Affich_F_N(Formations,nom,prenom,nom_formation,&note,&trouv);//Affiche le nom de la formation et la note d'un participant existant donnÃ©, sinon ERREUR
             if(trouv == True)
             {
                 Color(3,0);
